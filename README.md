@@ -1,1 +1,2 @@
-# introdu-o-javascript
+# introdução-javascript
+Professora Erika
